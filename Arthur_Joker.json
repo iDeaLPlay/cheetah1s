@@ -1,56 +1,59 @@
 {
-  "name":"Baby Cheetahs #333",
-  "symbol":"CC",
-  "description":"Baby Cheetahs join the Coalition with 1555 NFTs on the Solana Blockchain",
-  "seller_fee_basis_points":990,
-  "image":"https://raw.githubusercontent.com/iDeaLPlay/cheetah1s/main/Arthur_Joker.png",
-  "external_url":"https://www.cheetahcoalition.net",
-  "edition":333,
+  "name": "Baby Cheetahs #333",
+  "symbol": "CC",
+  "description": "Baby Cheetahs join the Coalition with 1555 NFTs on the Solana Blockchain",
+  "seller_fee_basis_points": 990,
+  "image": "https://raw.githubusercontent.com/iDeaLPlay/cheetah1s/main/Arthur_Joker.png",
+  "external_url": "https://www.cheetahcoalition.net",
+  "edition": 333,
   "attributes": [
     {
-      "trait_type":"Backgrounds",
-      "value":"Arthur_Joker"
+      "trait_type": "Backgrounds",
+      "value": "Arthur_Joker"
     },
     {
-      "trait_type":"Base",
-      "value":"Arthur_Joker"
+      "trait_type": "Base",
+      "value": "Arthur_Joker"
     },
     {
-      "trait_type":"Shirts",
-      "value":"Arthur_Joker"
+      "trait_type": "Shirts",
+      "value": "Arthur_Joker"
     },
     {
-      "trait_type":"Neck",
-      "value":"Arthur_Joker"
+      "trait_type": "Neck",
+      "value": "Arthur_Joker"
     },
     {
-      "trait_type":"Head",
-      "value":"Arthur_Joker"
+      "trait_type": "Head",
+      "value": "Arthur_Joker"
     },
     {
-      "trait_type":"Ears",
-      "value":"Arthur_Joker"
+      "trait_type": "Ears",
+      "value": "Arthur_Joker"
     },
     {
-      "trait_type":"Mouth",
-      "value":"Arthur_Joker"
+      "trait_type": "Mouth",
+      "value": "Arthur_Joker"
     },
     {
-      "trait_type":"Eyes",
-      "value":"Arthur_Joker"
-    }],
+      "trait_type": "Eyes",
+      "value": "Arthur_Joker"
+    }
+  ],
   "properties":
   {
     "files": [
       {
-        "uri":"https://raw.githubusercontent.com/iDeaLPlay/cheetah1s/main/Arthur_Joker.png",
-        "type":"image/png"
-      }],
-     "category":"image",
+        "uri": "https://raw.githubusercontent.com/iDeaLPlay/cheetah1s/main/Arthur_Joker.png",
+        "type": "image/png"
+      }
+    ],
+     "category": "image",
      "creators": [
        {
          "address":"7muxh7LG3uiE1QSyFWxBfRTUPUXqBi2RJJVd5EDEXfVt",
          "share":100
-       }]
+       }
+     ]
   }
 }
