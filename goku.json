@@ -3,7 +3,7 @@
   "symbol": "CC",
   "description": "Baby Cheetahs join the Coalition with 1555 NFTs on the Solana Blockchain",
   "seller_fee_basis_points": 990,
-  "image": "https://raw.githubusercontent.com/iDeaLPlay/cheetah1s/main/goku.png",
+  "image": "https://raw.githubusercontent.com/iDeaLPlay/cheetah1s/main/Goku.png",
   "external_url": "https://www.cheetahcoalition.net",
   "edition": 589,
   "attributes": [
@@ -43,7 +43,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/iDeaLPlay/cheetah1s/main/goku.png",
+        "uri": "https://raw.githubusercontent.com/iDeaLPlay/cheetah1s/main/Goku.png",
         "type": "image/png"
       }
     ],
