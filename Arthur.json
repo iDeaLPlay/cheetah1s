@@ -9,51 +9,50 @@
   "attributes": [
     {
       "trait_type": "Backgrounds",
-      "value": "Arthur_Joker"
+      "value": "Arthur"
     },
     {
       "trait_type": "Base",
-      "value": "Arthur_Joker"
+      "value": "Arthur"
     },
     {
       "trait_type": "Shirts",
-      "value": "Arthur_Joker"
+      "value": "Arthur"
     },
     {
       "trait_type": "Neck",
-      "value": "Arthur_Joker"
+      "value": "Arthur"
     },
     {
       "trait_type": "Head",
-      "value": "Arthur_Joker"
+      "value": "Arthur"
     },
     {
       "trait_type": "Ears",
-      "value": "Arthur_Joker"
+      "value": "Arthur"
     },
     {
       "trait_type": "Mouth",
-      "value": "Arthur_Joker"
+      "value": "Arthur"
     },
     {
       "trait_type": "Eyes",
-      "value": "Arthur_Joker"
+      "value": "Arthur"
     }
   ],
-  "properties":
-  {
+  "properties": {
     "files": [
       {
         "uri": "https://raw.githubusercontent.com/iDeaLPlay/cheetah1s/main/Arthur_Joker.png?token=GHSAT0AAAAAABVIJBIZ6I4MOQ72IJ66OTLKYVCWULQ",
         "type": "image/png"
       }
     ],
-     "category": "image",
-     "creators": [
-       {
-         "address":"7muxh7LG3uiE1QSyFWxBfRTUPUXqBi2RJJVd5EDEXfVt",
-         "share":100
-       }
-     ]
+    "category": "image",
+    "creators": [
+      {
+        "address": "7muxh7LG3uiE1QSyFWxBfRTUPUXqBi2RJJVd5EDEXfVt",
+        "share": 100
+      }
+    ]
   }
 }
