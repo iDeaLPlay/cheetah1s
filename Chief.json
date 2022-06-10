@@ -1,0 +1,58 @@
+{
+  "name": "Baby Cheetahs #861",
+  "symbol": "CC",
+  "description": "Baby Cheetahs join the Coalition with 1555 NFTs on the Solana Blockchain",
+  "seller_fee_basis_points": 990,
+  "image": "https://raw.githubusercontent.com/iDeaLPlay/cheetah1s/main/Master_Chief.png",
+  "external_url": "https://www.cheetahcoalition.net",
+  "edition": 861,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Master_Chief"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Master_Chief"
+    },
+    {
+      "trait_type": "Shirts",
+      "value": "Master_Chief"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Master_Chief"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Master_Chief"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Master_Chief"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Master_Chief"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Master_Chief"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/iDeaLPlay/cheetah1s/main/Master_Chief.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7muxh7LG3uiE1QSyFWxBfRTUPUXqBi2RJJVd5EDEXfVt",
+        "share": 100
+      }
+    ]
+  }
+}
